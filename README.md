@@ -1,7 +1,7 @@
 
 ![Alt text](images/working-with-context-variables-node.png)
 
-#Context Variable Demo
+# Context Variable Demo
 
 
 ##Background
@@ -9,7 +9,7 @@ A simple application that demonstrates how to bind a variable to a context.
 
 
 
-##Running the application
+## Running the application
 
 
 
