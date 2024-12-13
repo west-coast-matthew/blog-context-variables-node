@@ -26,5 +26,7 @@ clear && curl -v 'http://localhost:3000/welcome'
 ```
 This will produce a series of logs that essentially just illustrates the shared unique transaction id across the various actors in the call stack.
 
+After a call is placed, you may check the server logs to validate the behavior.
+
 
 You can find more details on my personal blog [https://www.matthewdalby.dev]()
